@@ -1,0 +1,19 @@
+{
+  "name": "prw2_avaliacao3",
+  "version": "1.0.0",
+  "description": "Avaliacao 3 - PRW2 - Gerenciamento de Alunos com JWT",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "dotenv": "^16.4.5",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3"
+  }
+}
